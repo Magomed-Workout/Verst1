@@ -2381,7 +2381,8 @@ h1, h2, h3 {
     }
 
     .absolute {
-        top:736.3vw;
+        top: 736.3vw;
+        height: 7%;
     }
 
     .blocks {
@@ -2498,7 +2499,7 @@ h1, h2, h3 {
     }
 
     .block2 {
-        top: 3293vw;
+        top: 3297vw;
         height: 52vw;
     }
 
