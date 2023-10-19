@@ -2337,7 +2337,7 @@ h1, h2, h3 {
 
     .input, .input1 {
         font-size: 12px;
-        padding: 20px 100px 20px 30px;
+        padding: 20px 110px 20px 30px;
     }
 
     .input-btn {
@@ -2350,12 +2350,12 @@ h1, h2, h3 {
 
     .section-right {
         width: 83vw;
-        height: 63vw;
+        height: 73vw;
         margin-top: 120px;
     }
 
     .block {
-        top: 243vw;
+        top: 250vw;
         height: 105vw;
     }   
 
